@@ -22,7 +22,7 @@
      <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/joy1.jpg') }}"><p>Joyceline</p><p>231402041</p><p class="text-sky-500">EDIT</p></div>
     </div>
     <div class="flex flex-nowrap space-x-20  px-5 mb-10 pt-5">
-     <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/mawaddah1.jpg') }}"><p>Mawaddah</p><p>231402020</p><p class="text-sky-500">TABEL</p></div>
+     <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/mawaddah1.jpg') }}"><p>Mawaddah</p><p>231402020</p><p class="text-sky-500">TABLE</p></div>
      <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/najdain1.jpg') }}"><p>Najdain Tafdhila</p><p>231402008</p><p class="text-sky-500">CREATE</p></div>
      <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/nabilah.jpg') }}"><p>Najmiyatul Nabilah</p><p>231402011</p><p class="text-sky-500">SHOW</p></div>
     </div>
