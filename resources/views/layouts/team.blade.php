@@ -18,7 +18,7 @@
   <div class="font-mono font-bold text-2xl text-center">
     <div class="flex flex-nowrap space-x-20  px-5 pb-5 ">
      <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/adelia.jpg') }}"><p>Adelia Sakinah Pane</p><p>231402026</p><p class="text-sky-500">DELETE</p></div>
-     <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/chinta.jpg') }}"><p>Chinta Yanggest Br Tarigan</p><p>231402038</p><p class="text-sky-500">Homepage, Tabel</p></div>
+     <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/chinta.jpg') }}"><p>Chinta Yanggest Br Tarigan</p><p>231402038</p><p class="text-sky-500">Homepage, Table , CRUD</p></div>
      <div class="border-8 rounded-lg border-pink-700"><img  src="{{ URL::to('/photos/joy1.jpg') }}"><p>Joyceline</p><p>231402041</p><p class="text-sky-500">EDIT</p></div>
     </div>
     <div class="flex flex-nowrap space-x-20  px-5 mb-10 pt-5">
